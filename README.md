@@ -2,6 +2,12 @@
 
 **EzScriber** is a batch-processing tool designed to automate the transcription of audio archives stored on Google Drive. It is optimized for efficiency, accuracy, and low-resource environments, making it ideal for oral history projects and community archives focused on "animating" cultural heritage.
 
+## 🛠️ Quick Start
+1. **Repository**: `https://github.com/mdotslash/ez-scriber`
+2. **Setup**: 
+   ```bash
+   pip install -r requirements.txt
+   
 ---
 
 ## 🚀 Key Features
