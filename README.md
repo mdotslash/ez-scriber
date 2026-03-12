@@ -23,7 +23,9 @@
    ```
 
 2. **Install dependencies:**
-   It is recommended to use a virtual environment. You can install all required libraries (Faster-Whisper, gdown, tqdm) using the provided requirements.txt file:
+   It is recommended to use a [virtual environment](https://help.dreamhost.com/hc/en-us/articles/115000695551-Installing-and-using-virtualenv-with-Python-3). I honestly don't know why, but like this is how I got it to work on my ancient MacBook. 
+   
+You can install all required libraries (Faster-Whisper, gdown, tqdm) using the provided requirements.txt file:
 
    ```bash
    pip install -r requirements.txt
