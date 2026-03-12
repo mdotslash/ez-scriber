@@ -1,0 +1,32 @@
+EzScriber: Social Equity & Reparations License
+Version 1.1
+
+1. Overview
+This license governs the use, remixing, and distribution of the EzScriber application code. This project is a tool for the labor of documenting and "animating" archives, particularly those centered on Black history and community memory. This license ensures that any further adaptation of this tool contributes to the continued flourishing of Black creators.
+
+2. The Reparations Clause
+If you identify as white (or as a person of proximity to systemic whiteness) and you choose to remix, adapt, or redistribute this code, you are required to make a one-time donation of at least $40 (USD) to an organization that specifically supports Black women in technology, media, or the arts.
+
+3. Suggested Organizations
+Acceptable organizations include, but are not limited to:
+
+Black Girls CODE
+
+Black Women Talk Tech
+
+The Loveland Foundation
+
+Local Black-led arts councils or mutual aid funds
+
+4. Proof of Action
+While this license operates on an "honor system" of integrity, users are encouraged to include a note in their redistributed repository or "About" section stating: "Remixed under the EzScriber Reparations License. Contribution made to [Organization Name]."
+
+5. Attribution & ShareAlike
+Attribution: You must credit the original project and the Shirley Ann Griffin-Martin Archive.
+
+Non-Commercial: This code may not be used for commercial profit without express written consent.
+
+ShareAlike: Any adaptations must be released under this same Social Equity & Reparations License.
+
+6. Disclaimer
+The audio and visual assets processed by this tool remain the property of their respective copyright holders. This project was developed for educational and archival purposes, specifically inspired by the Shirley Ann Griffin-Martin Estate. As the developer, I acknowledge that this work was born out of a necessity to preserve history even when traditional institutional permissions were difficult to secure via standard channels (email, phone, or church outreach).
