@@ -18,7 +18,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mdotslash/ez-scriber.git](https://github.com/mdotslash/ez-scriber.git/mdotslash/ez-scriber.git)
+   git clone https://github.com/mdotslash/ez-scriber.git
    cd EzScriber
    ```
 
