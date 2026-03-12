@@ -19,7 +19,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/mdotslash/ez-scriber.git
-   cd EzScriber
+   cd ez-scriber
    ```
 
 2. **Install dependencies:**
