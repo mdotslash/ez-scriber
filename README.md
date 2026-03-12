@@ -20,23 +20,27 @@
    ```bash
    git clone [https://github.com/mdotslash/ez-scriber.git](https://github.com/mdotslash/ez-scriber.git/mdotslash/ez-scriber.git)
    cd EzScriber
+   ```
 
 2. **Install dependencies:**
    It is recommended to use a virtual environment. You can install all required libraries (Faster-Whisper, gdown, tqdm) using the provided requirements.txt file:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## 📖 Usage
-Configure the script: Open EzScriber.py and update the FOLDER_URL variable with your Google Drive folder link.
 
-Set Permissions: Ensure the Google Drive folder is shared with "Anyone with the link" set to "Viewer".
+1. **Configure the script:** Open EzScriber.py and update the FOLDER_URL variable with your Google Drive folder link.
 
-**Run the transcription:** 
+2. **Set Google Drive Permissions:** Ensure the Google Drive folder is shared with "Anyone with the link" set to "Viewer".
+
+3. **Run EzScriber:** 
    ```bash
    python EzScriber.py
    ```
-All finished transcripts and the master __Archive_Manifest.csv_ will be saved in a directory named _Transcripts_Raw_Archive_.
+
+All finished transcripts and the master `_Archive_Manifest.csv` will be saved in a directory named "Transcripts_Raw_Archive".
 
 ## ⚖️ License
 This project is released under the **EzScriber: Social Equity & Reparations License (v1.1)**.
